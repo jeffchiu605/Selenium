@@ -8,12 +8,7 @@ Selenium Web Driver
 
 Sample Code
 
-package com.company;
-import org.openqa.selenium.server.RemoteControlConfiguration;
-import org.openqa.selenium.server.SeleniumServer;
-import com.thoughtworks.selenium.Selenium;
-import java.net.BindException;
-import java.net.ServerSocket;
+
 
 public class Server {
     public static SeleniumServer server;
